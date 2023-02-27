@@ -26,5 +26,4 @@ Write an application where a customer can create orders, save and view their inv
 
 **Output File**
 
-
-
+![alt text](https://github.com/myagubbayli/definex-java-spring-practicum/blob/main/Assignment2OrderApplication/src/img/output.png?raw=true)
